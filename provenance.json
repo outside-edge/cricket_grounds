@@ -1,0 +1,31 @@
+{
+  "snapshot_cutoff": "2026-10-25",
+  "checked_on": "2026-11-08",
+  "initial_inputs": [
+    {
+      "url": "https://github.com/outside-edge/side_order/blob/c1cf1ae5b9ceb8e670ce4d6f2af673856b733de7/data/context/matches.csv",
+      "sha256": "6dc3e5a12c754e26ae7863c43953ebb89e8b3ba6ce6badf3fae08637a6dd32ce"
+    },
+    {
+      "url": "https://github.com/outside-edge/side_order/blob/c1cf1ae5b9ceb8e670ce4d6f2af673856b733de7/data/context/ground_countries.csv",
+      "sha256": "818f030c89733946c625217f89b8b69fa4c019a64818a0b7a6aebc4b0ded4dd2"
+    },
+    {
+      "url": "https://github.com/outside-edge/side_order/blob/c1cf1ae5b9ceb8e670ce4d6f2af673856b733de7/data/cricket_matches.csv",
+      "sha256": "3eb11105d53ac7acd103c77e05a13434900978020a1c0fc483edb139161aab9f"
+    },
+    {
+      "url": "https://github.com/outside-edge/side_order/blob/c1cf1ae5b9ceb8e670ce4d6f2af673856b733de7/data/raw/context/grounds.csv",
+      "sha256": "bb47bcefe7a968c42005a280522aaae189f43b7a273ebf2bca4458b3605d0783"
+    },
+    {
+      "url": "https://github.com/outside-edge/side_order/blob/c1cf1ae5b9ceb8e670ce4d6f2af673856b733de7/data/raw/context/jurisdiction_periods.csv",
+      "sha256": "86da472fdcbeb7fe9088d07c2e7fe4b12f9e8418f8e0eaf0083823184ecad1cf"
+    },
+    {
+      "url": "https://github.com/outside-edge/side_order/blob/c1cf1ae5b9ceb8e670ce4d6f2af673856b733de7/data/reference/ground_jurisdictions.csv",
+      "sha256": "69e9e9bb5d470d073c2ad229b6a5dee748a7fbfb52e7feb0eb287179e7680426"
+    }
+  ],
+  "additional_locations": "Per-row sources in grounds.csv; verified on 2026-11-08."
+}
